@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Inhaler 04 (Sounds).unity
+  isLoaded: 1
+  isActive: 1

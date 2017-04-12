@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F87E3722-7F37-136A-5F8F-34A3C1EF0607}") = "Inhaler Game", "Assembly-CSharp.csproj", "{E866B080-25FB-BEDA-0927-DBCD6B2ED1D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E866B080-25FB-BEDA-0927-DBCD6B2ED1D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E866B080-25FB-BEDA-0927-DBCD6B2ED1D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E866B080-25FB-BEDA-0927-DBCD6B2ED1D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E866B080-25FB-BEDA-0927-DBCD6B2ED1D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
